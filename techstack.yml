@@ -2,7 +2,7 @@ repo_name: corningcode/ant-design-mobile
 report_id: 1020c3aa771b982febb6e98b6f4db4f3
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-01T02:33:00+00:00'
+timestamp: '2024-02-29T19:48:57+00:00'
 requested_by: awmleer
 provider: github
 branch: master
@@ -197,7 +197,7 @@ tools:
   last_updated_by: 卡晨
   last_updated_on: 2021-07-20 04:51:21.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.7.1
   license: MIT
